@@ -101,3 +101,34 @@ h2 {
     text-align: right;
     margin-top: 10px;
 }
+.cta-section {
+    padding: 80px 10%; 
+    background-color: white; 
+}
+
+.cta-banner {
+    background-color: #3b82f6;
+    color: white;
+    padding: 40px 60px; 
+    border-radius: 8px;
+    display: flex; 
+    justify-content: space-between; 
+    align-items: center;
+    max-width: 900px;
+    margin: 0 auto; 
+}
+.cta-button-outline {
+    color: white;
+    border: 2px solid white; /* El borde blanco que se ve en la imagen */
+    padding: 8px 24px;
+    text-decoration: none;
+    border-radius: 6px;
+    font-weight: bold;
+}
+footer{
+    background-color: #1f2937;
+    padding: 30px 0;
+    text-align: center;
+    color: white;
+    font-size: 14px;
+}
